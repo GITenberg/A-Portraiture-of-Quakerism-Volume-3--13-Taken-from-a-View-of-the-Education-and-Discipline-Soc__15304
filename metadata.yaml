@@ -1,0 +1,30 @@
+_repo: A-Portraiture-of-Quakerism-Volume-3--13-Taken-from-a-View-of-the-Education-and-Discipline-Soc__15304
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clarkson, Thomas
+    alias: Clarkson, T. (Thomas)
+    birthdate: 1760
+    deathdate: 1846
+    gutenberg_agent_id: '3503'
+    url: http://www.gutenberg.org/2009/agents/3503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Clarkson
+description: ''
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Society of Friends'
+- !lcc 'BX'
+title: "A Portraiture of Quakerism, Volume 3\r\nTaken from a View of the Education\
+  \ and Discipline, Social Manners, Civil and Political Economy, Religious Principles\
+  \ and Character, of the Society of Friends"
+url: http://www.gutenberg.org/ebooks/15304
