@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3503
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Clarkson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15304#A-Portraiture-of-Quakerism-Volume-3--13-Taken-from-a-View-of-the-Education-and-Discipline-Soc_
 gutenberg_issued: '2005-03-09'
 gutenberg_type: Text
 identifiers:
